@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="West Hills Dental">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2c5b3d"/>
+      <stop offset="0.5" stop-color="#123b26"/>
+      <stop offset="1" stop-color="#10271c"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <circle cx="256" cy="152" r="17" fill="#d9e8b8" opacity="0.85"/>
+  <path
+    d="M100 324c0-75 31-132 76-132s76 57 76 132c0-75 31-132 76-132s76 57 76 132"
+    stroke="#d9e8b8"
+    stroke-width="21"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <path
+    d="M136 380h240"
+    stroke="#d9e8b8"
+    stroke-width="9.6"
+    stroke-linecap="round"
+    opacity="0.5"
+  />
+</svg>
